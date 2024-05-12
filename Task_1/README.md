@@ -1,18 +1,5 @@
 # Setup project
 
-## Download project
-
-```git
-# khởi tạo một Git repository
-git init
-# kích hoạt tính năng sparse-checkout
-git sparse-checkout init
-# Thêm đường dẫn của thư mục bạn muốn sao chép:
-git sparse-checkout set task_1
-# Cuối cùng, sao chép (clone) repository từ GitHub:
-git remote add -f origin https://github.com/AT190510-Cuong/BlueCyber.git
-git pull origin main
-```
 
 ## Run project
 
